@@ -1,3 +1,12 @@
+#   loops part 1 10/5/2018
+
+This week I learned more about lists, and how they work. I mostly completed my hw3.py. This week we learned about the command 
+sentence.split, that command will split the words and print one letter at a time. we learned more about the .append command
+that command adds somthing to a list. You can also name a list and print that list, or you can make variables and add them to a list
+and call that list somthing else. This week we learned about the command "for". That command can individualy name a item in a list 
+and call it somthing else, for example yesterday we worte a problem on the board. We typed "For x in words" print(x). That displays 
+the lists individualy print them.
+
 # lists 9/27/2018
 
 This week I learned more about lists. I learned how to make a list with an if statment and a input with it. I also read chapters 14,15,16.
