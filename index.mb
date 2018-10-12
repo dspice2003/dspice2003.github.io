@@ -1,3 +1,19 @@
+# for loops 10/12/2018
+
+This week I learned more about loops. A loop makes the indented lines loop over till true, this is usefull for programming multiple 
+times and not having to write more code. This week we created strong.py that program will use for loops. The user types a number in
+the program will breakdown that number using the for loops.  It will break it down into numbers that add up to the number.
+The program will tell the user if it is a strong number, for example 145 is a strong number, the program prints 1 24 120. That
+adds up to 145. we also created wicked_count.py. This program will ask the user for 5 numbers with a space inbetween them.
+Then it will go threw the numbers and if one of the numbers is a lucky number it adds points. If the number is unlucky it will
+subtract 20 points from your total. then at the end it prints the numbers. We also created fox.py this program will print the
+line "the quick brown fox jumped over the lazy dog" after its done it will split the line and pritn each word at a diffrent time.
+After we learned how to do that we learned how to reverce the letters so it saids it backwards but still line for line. We also
+created words.py this program will ask the user to print a sentence. After the user does so it will print the sentence and make it
+a list to print later.
+
+---
+
 #   loops part 1 10/5/2018
 
 This week I learned more about lists, and how they work. I mostly completed my hw3.py. This week we learned about the command 
