@@ -1,3 +1,15 @@
+# dictionarys 10/19/2018
+
+This week we learned more about loops and for loops. I finished hw4.py I also started on hw5.py. During this week we read about
+dictionarys on page 26,27. During this week we had a test on for loops. The program would ask the user to print numbers out
+with spaces between. It would then add the numbers up then it would find the largest number in the list of numbers they printed.
+.In this week we created dictionary.py this program asked the user to print a word, the program would split the word. Then we
+programmed the file to print how many times that letter printed in the program. This week we created a program that asked the 
+user to roll the dice, this is a two player game. Then the program would ask player two to roll the dice. Then the program would
+see who had the highest number, we used dictionarys to add the points up, who ever had two points first won the game.
+
+---
+
 # for loops 10/12/2018
 
 This week I learned more about loops. A loop makes the indented lines loop over till true, this is usefull for programming multiple 
