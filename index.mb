@@ -1,3 +1,14 @@
+# while and scope 10/26/2018
+
+This week we learned about more while programs. The while command will run the program forever until you tell it to break.
+During this week I finished my hw5.py. The homework was you create a dice game, two people play the game. You ask them for there
+name, and you print with that name, then you roll the dice using the random.randint function. Who ever has the biggest number will
+will that game, after each roll we use dictionarys to add the points up. Then you ask the users if they want to play again. If both
+the answers are yes you play again. I also took my dictionary quiz and my for loops quiz. For the for loop quiz you need to use the
+for loop function and print the numbers. Then you add all numbers and exclude all divisble by seven.
+
+---
+
 # dictionarys 10/19/2018
 
 This week we learned more about loops and for loops. I finished hw4.py I also started on hw5.py. During this week we read about
