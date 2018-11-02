@@ -1,3 +1,16 @@
+# fuctions 11/2/2018
+
+This week we learned more about how to take info out of a dictionary. We learned about functions. A function is code that only
+works when you call its name or if you are in the function. How to code a function you first need to create "def (function name)
+", now if you call that function it will print that code. This week we created unique.py, this program will ask the user
+to print numbers seperated by a coma, then it will put the numbers in order if not already. This week we started hw6.py.
+In hw6 there is 3 problems you need to solve. The first problem is you need to swap "a" and "b", In this problem a = 10
+and b = 30 when you switch them a = 30 and b = 10. Problem 2 uses a function called "bubble". You create a list and 
+it will use the function "bubble" to sort them in order. In problem 3 you create a function called "bubble_sort", in this
+function you will continue to loop the list you created in problem 2. It will run until the list is in order.
+
+---
+
 # while and scope 10/26/2018
 
 This week we learned about more while programs. The while command will run the program forever until you tell it to break.
