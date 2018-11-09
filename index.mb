@@ -1,3 +1,14 @@
+# recursion 11/92018
+
+This week we learned more about functions. We also started learning about recursion, recursion is the process of repeating its self
+this is usefull when coding large amounts of code. This week I also got 100% on my hw6.py. On visual studio code I created
+recursion.py, In that program we created "simple_bunny_ears" and "complex_bunny_ears". Simple bunny ears prints as many bunnies
+as you want and it adds 2 ears for each bunny then subtracts 1 bunny each time. Complex bunny ears is the same thing exept every
+other bunny raises his or her leg for a hand, so for every other bunny it will add 3 and subtract the bunny. This week I also
+created merge.py this program splits "items" in half then at the end it will print both items "left" and "right" into one big list.
+
+---
+
 # fuctions 11/2/2018
 
 This week we learned more about how to take info out of a dictionary. We learned about functions. A function is code that only
