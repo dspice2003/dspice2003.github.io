@@ -1,3 +1,14 @@
+# classes continued 11/30/2018
+
+This week we learned more about classes. We also created deck,card,rank,suit. Rank.py creates class rank.py this has multiple
+variables. We also created suit.py, suit creates the class suit this has multiple variables. Deck creates a class called deck
+in this class it creates draw,shuffle,restock,cut,split and fan. Draw means it removes a card, shuffle means you import random.
+Def restock means restore all cards. Def cut will split the deck in the first_half and second_half, then it will set deck1 to
+first_half and deck2 to second_half. Def split means you split the list in half. Def fan will display all the cards. This week
+we also looked at hw8.py.
+
+---
+
 # classes 11/16/2018
 
 This week we learned more about recursion. We also went to the coffee house in delafield, during their we talked about out homework
