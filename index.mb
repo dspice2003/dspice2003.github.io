@@ -1,3 +1,14 @@
+gofish 12/7/2018
+
+This week we learned more about how classes work when you put more classes in it. we also created gofish this python program
+will play goldfish with opponents. The rules are " each person starts with 4 cards or if their are more that 4 people
+you start with 5 cards". "If an opponent calls your card you give up that card, if they dont you say goldfish and they
+pick a card. The person who has the most pairs of cards will win. For this to work we need to import deck and import
+player. we also need to say how many people are playing we also created setup and playgame in goldfish.py. During this week
+we also created hw8.py for that homework we need to create a dice game.
+
+---
+
 # classes continued 11/30/2018
 
 This week we learned more about classes. We also created deck,card,rank,suit. Rank.py creates class rank.py this has multiple
