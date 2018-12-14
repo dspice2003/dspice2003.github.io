@@ -1,4 +1,14 @@
-gofish 12/7/2018
+# raspberry pi 12/14/2018
+
+This week we completed hw8.py. During this week we installed putty, putty is a program that uses linux to print the program. We are
+using the raspberry pi to display the program. We are going to make a project on the pi. The project is going to be an aquarem
+with a fish in it. We are working on making the program drop food when we shake it. We are also going to add other fish to the
+aquariem. When the fish eat they are going to get bigger if a fish is one pixel if it eats it will be four pixels. The aquariem will
+be blue, we will also add other fish and when they eat the other fish its game over. When the food sits to long it will decay.
+
+---
+
+# gofish 12/7/2018
 
 This week we learned more about how classes work when you put more classes in it. we also created gofish this python program
 will play goldfish with opponents. The rules are " each person starts with 4 cards or if their are more that 4 people
